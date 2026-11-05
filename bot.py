@@ -1,5 +1,5 @@
 import telebot, os, glob
-TOKEN = "9057029237:AAFAtQETgHSA35Ts6xUeYBP64h_JlyQUx9Q"
+TOKEN = "9057029237:AAEIq01MhA2VIkkysKdkBwHJbvKaaZMrgYk"
 ADMIN_ID = 6383842005
 bot = telebot.TeleBot(TOKEN)
 
